@@ -4,15 +4,15 @@ My name is Carolina (a.k.a. Karin). I'm an Informatics Engineer student & full-s
 
 ## Languages 👩🏻‍💻:
 
--Javascript
--Go
--Python
--PL/SQL
+- Javascript
+- Go
+- Python
+- PL/SQL
 
 ## Frameworks 👩🏻‍💻:
 
--Node
--React
+- Node
+- React
 
 My hobbies are reading science books, watching anime, and taking care of my three cats 😺😺😺.
 
