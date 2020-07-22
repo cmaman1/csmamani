@@ -20,7 +20,7 @@ My name is Carolina (a.k.a. Karin). I'm an **Informatics Engineer** _student_ & 
 
 My hobbies are reading **science** books, watching **anime**, and taking care of my three **cats** 😺😺😺.
 
-The first time I've ever programmed was while I was working as an accountant two years ago, when I started to automate things with Visual Basic for Applications in Excel, it has been a long and beautiful road after that.
+I used to work as an accountant until one day - two years ago - when I was playing and trying new things in my Excel worksheets I discovered macros, Visual Basic, ✨programming✨ and ✨automation✨. It has been a long and beautiful road after that.
 
 ### **You can find me in**
 
