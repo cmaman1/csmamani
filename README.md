@@ -27,7 +27,5 @@ I used to work as an accountant until one day - two years ago - when I was playi
 ### **You can find me in**
 
 ![Linkedin](https://img.shields.io/badge/-csmamani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/csmamani/)
-
 ![Twitter: mcarolinx](https://img.shields.io/twitter/follow/mcarolinx?style=social)
-
 ![GitHub Carolina](https://img.shields.io/github/followers/csmamani?label=follow&style=social)
