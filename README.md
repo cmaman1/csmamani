@@ -2,14 +2,14 @@
 
 My name is Carolina (a.k.a. Karin). I'm an Informatics Engineer student & full-stack developer in progress. Currently working on backend development with PL/SQL programming language. Always minded to learn new things 😄.
 
-## Languages 👩🏻‍💻:
+## Languages 👩🏻‍💻
 
 - Javascript
 - Go
 - Python
 - PL/SQL
 
-## Frameworks 👩🏻‍💻:
+## Frameworks 👩🏻‍💻
 
 - Node
 - React
