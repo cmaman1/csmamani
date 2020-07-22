@@ -20,7 +20,7 @@ My name is Carolina (a.k.a. Karin). I'm an **Informatics Engineer** _student_ & 
 
 <img width = "17%" align="right" alt="JPG" src="https://i.pinimg.com/originals/a0/fe/cf/a0fecf3996194b0848945f7b86a3553e.jpg" />
 
-My enjoy reading about **mythology**, watching **anime**, and taking care of my three **cats** 😺😺😺.
+I enjoy reading about **mythology**, watching **anime**, and taking care of my three **cats** 😺😺😺.
 
 I used to work as an accountant until one day - two years ago - when I was playing and trying new things in my Excel worksheets I discovered macros, Visual Basic, ✨programming✨ and ✨automation✨. It has been a long and beautiful road after that.
 
