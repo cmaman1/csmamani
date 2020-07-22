@@ -1,16 +1,20 @@
-### Hi there 👋
+# ✨ Hello, world! 👋 ✨
 
-<!--
-**csmamani/csmamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Carolina (a.k.a. Karin). I'm an Informatics Engineer student & full-stack developer in progress. Currently working on backend development with PL/SQL programming language. Always minded to learn new things 😄.
 
-Here are some ideas to get you started:
+## Languages 👩🏻‍💻:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Javascript
+-Go
+-Python
+-PL/SQL
+
+## Frameworks 👩🏻‍💻:
+
+-Node
+-React
+
+My hobbies are reading science books, watching anime, and taking care of my three cats 😺😺😺.
+
+You can find me in:
+[![Linkedin](https://img.shields.io/badge/-csmamani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/csmamani/)]
