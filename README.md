@@ -4,17 +4,12 @@
 
 My name is Carolina (a.k.a. Karin). I'm an **Informatics Engineer** _student_ & **fullstack developer** _in progress_. Currently working on backend development with PL/SQL programming language. Always minded to learn new things 😄.
 
-## **Languages** 👩🏻‍💻
+## **Current stack** 👩🏻‍💻
 
-- Javascript
-- Go
-- Python
-- PL/SQL
-
-## **Frameworks** 👩🏻‍💻
-
-- Node
-- React
+- NodeJS with NestJS
+- React with NextJS
+- SASS and TailwindCSS
+- PostgreSQL, MySQL, Oracle and MongoDB
 
 ### **Random facts**
 
