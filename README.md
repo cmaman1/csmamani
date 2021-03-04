@@ -1,12 +1,12 @@
 # ✨ Hello, world! 👋 ✨
 
-<img width = "15%" align="right" alt="JPG" src="https://pm1.narvii.com/6623/9a71f8e8d8fa89f64673735b6789bc1c838153d5_hq.jpg" />
+<img width = "17%" align="right" alt="JPG" src="https://pm1.narvii.com/6623/9a71f8e8d8fa89f64673735b6789bc1c838153d5_hq.jpg" />
 
 My name is Carolina (a.k.a. Karenin). I'm an **Informatics Engineer** _student_ & **fullstack developer** _in progress_. Currently working on backend development with PL/SQL programming language. Always minded to learn new things 😄.
 
 ## **Current stack** 👩🏻‍💻
 
-<img width = "12%" align="right" alt="JPG" src="https://i.pinimg.com/originals/a0/fe/cf/a0fecf3996194b0848945f7b86a3553e.jpg" />
+<img width = "15%" align="right" alt="JPG" src="https://i.pinimg.com/originals/a0/fe/cf/a0fecf3996194b0848945f7b86a3553e.jpg" />
 
 
 - Typescript
