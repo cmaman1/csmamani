@@ -6,6 +6,7 @@ My name is Carolina (a.k.a. Karin). I'm an **Informatics Engineer** _student_ & 
 
 ## **Current stack** 👩🏻‍💻
 
+- Typescript
 - NodeJS with NestJS
 - React
 - SASS and TailwindCSS
