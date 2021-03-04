@@ -7,7 +7,7 @@ My name is Carolina (a.k.a. Karin). I'm an **Informatics Engineer** _student_ & 
 ## **Current stack** 👩🏻‍💻
 
 - NodeJS with NestJS
-- React with NextJS
+- React
 - SASS and TailwindCSS
 - PostgreSQL, MySQL, Oracle and MongoDB
 
