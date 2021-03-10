@@ -10,7 +10,7 @@ My name is Carolina (a.k.a. Karenin). I'm an **Informatics Engineer** _student_ 
 
 
 - Typescript
-- NodeJS with NestJS
+- NodeJS with Express or NestJS
 - React
 - SASS and TailwindCSS
 - PostgreSQL, MySQL, Oracle and MongoDB
