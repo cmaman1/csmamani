@@ -9,7 +9,7 @@ My name is Carolina (a.k.a. Karenin). I'm an **Informatics Engineer** _student_ 
 <img width = "15%" align="right" alt="JPG" src="https://i.pinimg.com/originals/a0/fe/cf/a0fecf3996194b0848945f7b86a3553e.jpg" />
 
 
-- Typescript
+- Javascript and Typescript
 - NodeJS with Express or NestJS
 - React
 - SASS and TailwindCSS
